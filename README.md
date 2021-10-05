@@ -1,8 +1,7 @@
 # Emojify_v2a
 
 
-mojify!
-Welcome to the second assignment of Week 2. You are going to use word vector representations to build an Emojifier.
+I are going to use word vector representations to build an Emojifier.
 
 Have you ever wanted to make your text messages more expressive? Your emojifier app will help you do that. So rather than writing:
 
