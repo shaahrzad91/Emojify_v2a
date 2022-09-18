@@ -1,0 +1,5 @@
+Transfer Learning and word embeddings
+
+1) Learn word embeddings from large text corpus(1-100B words).
+2) Transfer embedding to new task with smaller training set.
+3) finetune the word embedding some epochs with new data. 
